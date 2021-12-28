@@ -1,5 +1,5 @@
 import React from "react";
-import { Home } from "./src/pages/home";
+import { Home } from './src/pages/Home';
 import { StatusBar } from 'react-native';
 
 export default function App() {
